@@ -1,17 +1,17 @@
 # Personal Portfolio
 
-## Sections
+# Sections
 
-### Home
+1.### Home
 - Welcome message and image Navigation links: Home, About Me, Skills, Projects, Contact
 
-### About Me
+2.### About Me
 - Details about me: education, interests, career aspirations
 
-### Skills
+3.### Skills
 - Technical Skills,soft Skills
 
-### Contact
+4.### Contact
 - Email,social media links
 
 ## Technologies
