@@ -2,16 +2,16 @@
 
 # Sections
 
-1.### Home
+1. ### Home
 - Welcome message and image Navigation links: Home, About Me, Skills, Projects, Contact
 
-2.### About Me
+2. ### About Me
 - Details about me: education, interests, career aspirations
 
-3.### Skills
+3. ### Skills
 - Technical Skills,soft Skills
 
-4.### Contact
+4. ### Contact
 - Email,social media links
 
 ## Technologies
